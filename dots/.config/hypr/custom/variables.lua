@@ -1,1 +1,7 @@
-
+browser = "~/.config/hypr/hyprland/scripts/launch_first_available.sh vivaldi"
+codeEditor = "~/.config/hypr/hyprland/scripts/launch_first_available.sh 'command -v nvim && kitty -1 nvim' 'command -v micro && kitty -1 micro'"
+zotero = "~/.config/hypr/hyprland/scripts/launch_first_available.sh 'zotero'"
+obsidian = "~/.config/hypr/hyprland/scripts/launch_first_available.sh 'obsidian'"
+anki = "~/.config/hypr/hyprland/scripts/launch_first_available.sh 'anki'"
+notion = "~/.config/hypr/hyprland/scripts/launch_first_available.sh 'notion-app'"
+notionCalendar = "~/.config/hypr/hyprland/scripts/launch_first_available.sh 'notion-calendar-electron'"
